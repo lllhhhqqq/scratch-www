@@ -48,7 +48,7 @@
     "compression": "1.6.1",
     "express": "4.16.1",
     "express-http-proxy": "1.1.0",
-    "lodash.defaults": "4.0.1",
+    "lodash.defaults": "4.2.0",
     "newrelic": "1.25.4",
     "react-helmet": "5.2.0",
     "scratch-parser": "^5.0.0",
